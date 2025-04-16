@@ -1,6 +1,6 @@
 # 💫 About me
 # 🚀 Web Developer | 🖥️ Tech Enthusiast | ⚡ Self learner 
-Welcome to my GitHub! I'm an aspiring **Full Stack Developer** passionate about **building dynamic web applications** and constantly expanding my skill set. I enjoy turning **ideas into reality** through code and sharing my knowledge with the community.  
+Welcome to my GitHub! I'm an aspiring **Web Developer** passionate about **building dynamic web applications** and constantly expanding my skill set. I enjoy turning **ideas into reality** through code and sharing my knowledge with the community.  
 
 ---
 
